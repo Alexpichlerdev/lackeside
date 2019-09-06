@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: mighty-fine
-        image: quay.io/stefanprodan/podinfo:3.0.0
+        image: quay.io/stefanprodan/mighty-fine:4.0.0
         command:
         - ./podinfo
         - --port=3000
