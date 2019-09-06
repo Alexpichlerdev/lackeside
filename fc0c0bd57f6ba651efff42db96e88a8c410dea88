@@ -1,0 +1,1 @@
+{"jobID":"b6b52239-0bae-c6db-db26-96b685cea600","spec":{"type":"policy","cause":{"Message":"","User":"Alex Pichler \u003calexander.pichler@has-to-be.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
