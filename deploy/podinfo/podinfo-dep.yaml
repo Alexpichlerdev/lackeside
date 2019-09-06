@@ -8,7 +8,7 @@ metadata:
     flux.weave.works/tag.podinfod: glob:*
     flux.weave.works/automated: 'true'
 spec:
-  replicas: 10
+  replicas: 11
   selector:
     matchLabels:
       app: podinfo
